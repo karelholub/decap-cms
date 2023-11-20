@@ -1,14 +1,13 @@
 ---
-templateKey: 'product-page'
+templateKey: product-page
+title: Emaily v pohodě
+image: /img/dall·e-2023-11-20-13.13.50-pencil-sketch-in-high-key-of-a-cozy-email-marketing-workspace-combined-with-a-coffee-theme.-the-scene-includes-a-desktop-with-a-computer-screen-showin.jpg
+heading: Dejte si kávu, e-maily zařídíme my
 path: /products
-title: Our Coffee
-image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+description: Kaldi is the ultimate spot for coffee lovers who want to learn
+  about their java’s origin and support the farmers that grew it. We take coffee
+  production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -45,7 +44,7 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: Skvělá emailová komunikace bez kompromisů
   description: >
     We hold our coffee to the highest standards from the shrub to the cup.
     That’s why we’re meticulous and transparent about each step of the coffee’s
@@ -53,29 +52,28 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/dall·e-2023-11-20-13.07.50-pencil-sketch-in-high-key-of-an-array-of-email-marketing-tools-and-elements-including-a-computer-screen-displaying-an-email-campaign-a-smartphone-wi.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/dall·e-2023-11-20-13.13.50-pencil-sketch-in-high-key-of-a-cozy-email-marketing-workspace-combined-with-a-coffee-theme.-the-scene-includes-a-desktop-with-a-computer-screen-showin.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/dall·e-2023-11-20-12.58.29-a-pencil-sketch-in-high-key-of-two-smart-young-professional-caucasian-women-in-a-modern-office-setting-working-together-on-a-laptop.-the-sketch-styl.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
+    quote: Vaše newslettery mají daleko větší čtenost, než jsme čekali. Pomalu jsme
+      přestávali věřit, že newsletter může být efektivní prodejní nástroj,
+      protože jich je zkrátka moc. Vy jste dokázali, že newsletter může skvěle
+      fungovat a pomoct nám budovat značku i přímé prodeje.
   - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+    quote: Naše emailové šablony potřebovaly oživit a vy jste je skutečně posunuli o
+      pořádný kus k modernímu designu. Zpětná vazba od klientů je velice
+      pozitivní a výsledky vidíme i v prodejních číslech.
+full_image: /img/dall·e-2023-11-20-13.04.49-1.-pencil-sketch-in-high-key-of-a-diverse-team-meeting-in-a-modern-office-discussing-digital-marketing-strategies.-the-team-consists-of-professionals.jpg
 pricing:
-  heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+  heading: Koliv vás to bude stát?
+  description: U nás víte vždycky předem, kolik budete muset vysypat z prasátka. A
+    nebojte, bohatě se vám to vrátí!
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
@@ -83,19 +81,19 @@ pricing:
         - Green or roasted beans"
         - One or two varieties of beans"
       plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+      price: "50"
+    - description: Great for avid drinkers, java-loving couples and bigger crowds
       items:
         - 6 lbs of coffee per month
         - Green or roasted beans
         - Up to 4 different varieties of beans
       plan: Big
-      price: '80'
+      price: "80"
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Whatever you need
         - Green or roasted beans
         - Unlimited varieties
       plan: Custom
-      price: '??'
+      price: ??
 ---
